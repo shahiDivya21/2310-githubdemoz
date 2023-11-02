@@ -1,2 +1,3 @@
 console.log("hello world")
-const coolMentor = "Divya"
+const coolMentor = "Divya";
+console.log(coolMentor);
